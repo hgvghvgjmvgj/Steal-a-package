@@ -1,0 +1,435 @@
+[
+  {
+    "name": "01-existing-profile-desert-hud",
+    "category": "HUD",
+    "caption": "Advanced-account Desert view. Stable HUD positions and a clear central lane.",
+    "file": "screenshots/01-existing-profile-desert-hud.jpg",
+    "capturedAt": null,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "name": "02-developed-plot-income-and-ready-egg",
+    "category": "Plot",
+    "caption": "Developed plot, income feedback, and an Egg Ready / E Hatch prompt.",
+    "file": "screenshots/02-developed-plot-income-and-ready-egg.jpg",
+    "capturedAt": null,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "name": "05-index-forest-eight-pets-rewards",
+    "category": "Index",
+    "caption": "Forest eight-card collection panel; 3/8, overall 29/104, claimed cash/Speed strip and bat graphic.",
+    "file": "screenshots/05-index-forest-eight-pets-rewards.jpg",
+    "capturedAt": null,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "name": "07-index-desert-rarity-colors",
+    "category": "Index",
+    "caption": "Desert index: multiple tier colors within one regional pool. This does not disclose spawn odds.",
+    "file": "screenshots/07-index-desert-rarity-colors.jpg",
+    "capturedAt": null,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "name": "08-index-lake-eight-pets",
+    "category": "Index",
+    "caption": "Lake eight-card collection panel with known entries and undiscovered silhouettes.",
+    "file": "screenshots/08-index-lake-eight-pets.jpg",
+    "capturedAt": null,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "name": "09-night-index-x30-growth",
+    "category": "Cycle",
+    "caption": "Night state: x30 egg indicator and sun countdown. Timer acceleration was not measured.",
+    "file": "screenshots/09-night-index-x30-growth.jpg",
+    "capturedAt": null,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "name": "10-shop-treadmill-cash-or-premium-upgrade",
+    "category": "Shop",
+    "caption": "Current/next treadmill comparison with cash and premium prices.",
+    "file": "screenshots/10-shop-treadmill-cash-or-premium-upgrade.jpg",
+    "capturedAt": null,
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "11-night-plot-x30",
+    "category": "Cycle",
+    "caption": "Actual content is sunrise: ALL EGG RESET and exceptional-egg destination announcements. Legacy filename is inaccurate.",
+    "file": "screenshots/11-night-plot-x30.jpg",
+    "capturedAt": null,
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "12-sunrise-all-egg-reset-announcements",
+    "category": "Plot",
+    "caption": "Actual content is a daytime developed plot with tier, income, and size labels.",
+    "file": "screenshots/12-sunrise-all-egg-reset-announcements.jpg",
+    "capturedAt": null,
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "13-hub-safe-line-shops-route-wide",
+    "category": "Hub",
+    "caption": "Wide hub entrance: safety boundary, service stalls, and outward route.",
+    "file": "screenshots/13-hub-safe-line-shops-route-wide.jpg",
+    "capturedAt": "2026-10-02T06:20:10.683Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "14-hub-walkthrough-1",
+    "category": "Hub",
+    "caption": "Level hub view showing the full-width safe line and nearby services.",
+    "file": "screenshots/14-hub-walkthrough-1.jpg",
+    "capturedAt": "2026-10-02T06:20:40.235Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "14-hub-walkthrough-3",
+    "category": "Plot",
+    "caption": "Fenced plots and oversized collectibles spilling beyond boundaries; useful negative readability reference.",
+    "file": "screenshots/14-hub-walkthrough-3.jpg",
+    "capturedAt": "2026-10-02T06:20:46.481Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "15-plot-walkthrough-3",
+    "category": "Map",
+    "caption": "Forest looking back toward the hub: high walls, open center, side loot group, transition band.",
+    "file": "screenshots/15-plot-walkthrough-3.jpg",
+    "capturedAt": "2026-10-02T06:21:06.793Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "16-live-route-1",
+    "category": "Training",
+    "caption": "Plot-front ice treadmill and capacity sign; extreme collectible scale obscures the area.",
+    "file": "screenshots/16-live-route-1.jpg",
+    "capturedAt": "2026-10-02T06:21:39.79Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "17-systems-walkthrough-1",
+    "category": "Capacity",
+    "caption": "Own-area placement error, visible egg, plot-front treadmill and Upgrade Pen level/cost sign.",
+    "file": "screenshots/17-systems-walkthrough-1.jpg",
+    "capturedAt": "2026-10-02T06:22:43.984Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "17-systems-walkthrough-3",
+    "category": "Map",
+    "caption": "Jungle layout: side ponds, tree/loot cluster, open route toward Snow.",
+    "file": "screenshots/17-systems-walkthrough-3.jpg",
+    "capturedAt": "2026-10-02T06:22:50.244Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "17-systems-walkthrough-4",
+    "category": "Map",
+    "caption": "Snow overview: sleeping guardian and several nests near the right wall, recommended-Speed sign.",
+    "file": "screenshots/17-systems-walkthrough-4.jpg",
+    "capturedAt": "2026-10-02T06:22:53.364Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "17-systems-walkthrough-5",
+    "category": "Map",
+    "caption": "Lava-themed overview: left guardian/loot group and the blue ocean region ahead.",
+    "file": "screenshots/17-systems-walkthrough-5.jpg",
+    "capturedAt": "2026-10-02T06:22:56.468Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "19-route-6",
+    "category": "Map",
+    "caption": "Lava-to-ocean transition: continuous route, edge scenery, strong palette change.",
+    "file": "screenshots/19-route-6.jpg",
+    "capturedAt": "2026-10-02T06:29:44.905Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "20-ocean-night-route-1",
+    "category": "Trails",
+    "caption": "Trail Shop: preview/rarity/multiplier/equip state; labels say Speed, exact multiplier calculation unverified.",
+    "file": "screenshots/20-ocean-night-route-1.jpg",
+    "capturedAt": "2026-10-02T06:29:55.7Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "20-ocean-night-route-3",
+    "category": "Cycle",
+    "caption": "Night ending near the safe-zone entrance; a temporary event wall displays a countdown.",
+    "file": "screenshots/20-ocean-night-route-3.jpg",
+    "capturedAt": "2026-10-02T06:29:59.962Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "20-ocean-night-route-4",
+    "category": "Cycle",
+    "caption": "Sunrise ALL EGG RESET announcement overlaps a global boss-event banner.",
+    "file": "screenshots/20-ocean-night-route-4.jpg",
+    "capturedAt": "2026-10-02T06:30:02.097Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "20-ocean-night-route-6",
+    "category": "Map",
+    "caption": "Lake toward Desert: side loot, low decorations, clear route and region banner.",
+    "file": "screenshots/20-ocean-night-route-6.jpg",
+    "capturedAt": "2026-10-02T06:30:06.341Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "20-ocean-night-route-7",
+    "category": "Map",
+    "caption": "Jungle entry banner, side ponds, wall-side loot and Snow ahead.",
+    "file": "screenshots/20-ocean-night-route-7.jpg",
+    "capturedAt": "2026-10-02T06:30:08.451Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "20-ocean-night-route-8",
+    "category": "Map",
+    "caption": "Snow entry banner and layout; consistent transition language.",
+    "file": "screenshots/20-ocean-night-route-8.jpg",
+    "capturedAt": "2026-10-02T06:30:10.569Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "21-deeper-stages-1",
+    "category": "Map",
+    "caption": "Snow guardian/nests at closer range and a prominent Speed offer above normal gameplay.",
+    "file": "screenshots/21-deeper-stages-1.jpg",
+    "capturedAt": "2026-10-02T06:30:26.423Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "21-deeper-stages-2",
+    "category": "Map",
+    "caption": "Lava guardian/loot group beside the open route toward Ocean.",
+    "file": "screenshots/21-deeper-stages-2.jpg",
+    "capturedAt": "2026-10-02T06:30:28.541Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "21-deeper-stages-3",
+    "category": "Map",
+    "caption": "Ocean overview: sand/coral edge shapes, blue central lane, bone-themed destination ahead.",
+    "file": "screenshots/21-deeper-stages-3.jpg",
+    "capturedAt": "2026-10-02T06:30:30.651Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "21-deeper-stages-4",
+    "category": "Chase",
+    "caption": "Ocean theft interaction: circular E hold prompt beside a sleeping guardian and egg nest.",
+    "file": "screenshots/21-deeper-stages-4.jpg",
+    "capturedAt": "2026-10-02T06:30:32.761Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "21-deeper-stages-5",
+    "category": "Chase",
+    "caption": "Ocean theft activates pursuit: red exclamation, RUN banner, Drop action, carried egg and simplified HUD.",
+    "file": "screenshots/21-deeper-stages-5.jpg",
+    "capturedAt": "2026-10-02T06:30:34.88Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "21-deeper-stages-6",
+    "category": "Chase",
+    "caption": "Avatar lying on the ground after the ocean attempt; consistent with knockdown, exact contact not captured.",
+    "file": "screenshots/21-deeper-stages-6.jpg",
+    "capturedAt": "2026-10-02T06:30:36.989Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "22-return-and-menus-2",
+    "category": "Hub",
+    "caption": "High oblique hub-to-Forest view: safe-line width, adjacent Sell/Trails services, open stage lane.",
+    "file": "screenshots/22-return-and-menus-2.jpg",
+    "capturedAt": "2026-10-02T06:31:03.099Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "22-return-and-menus-5",
+    "category": "Chase",
+    "caption": "Jungle loot interaction: guardian and nests clustered beside a tree at the wall.",
+    "file": "screenshots/22-return-and-menus-5.jpg",
+    "capturedAt": "2026-10-02T06:31:09.482Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "22-return-and-menus-6",
+    "category": "Chase",
+    "caption": "Jungle egg carried into Desert during chase; Desert guardian remains by its loot.",
+    "file": "screenshots/22-return-and-menus-6.jpg",
+    "capturedAt": "2026-10-02T06:31:11.6Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "22-return-and-menus-7",
+    "category": "Chase",
+    "caption": "Jungle guardian follows through Lake while that region’s loot group remains separate.",
+    "file": "screenshots/22-return-and-menus-7.jpg",
+    "capturedAt": "2026-10-02T06:31:13.725Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "22-return-and-menus-8",
+    "category": "Chase",
+    "caption": "Pursuit continues through Forest toward the hub. Do not infer the unseen finish-line moment.",
+    "file": "screenshots/22-return-and-menus-8.jpg",
+    "capturedAt": "2026-10-02T06:31:15.839Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "24-current-walkthrough-2",
+    "category": "Map",
+    "caption": "Lake foreground and Desert beyond, with sleeping side guardian and varied visible eggs.",
+    "file": "screenshots/24-current-walkthrough-2.jpg",
+    "capturedAt": "2026-10-02T06:32:35.176Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "23-safe-escape-1",
+    "category": "Map",
+    "caption": "Volcano region banner confirms the lava stage name; ocean transition ahead.",
+    "file": "screenshots/23-safe-escape-1.jpg",
+    "capturedAt": "2026-10-02T06:31:37.755Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "23-safe-escape-3",
+    "category": "Map",
+    "caption": "Volcano guardian and differently sized eggs at the side wall.",
+    "file": "screenshots/23-safe-escape-3.jpg",
+    "capturedAt": "2026-10-02T06:31:40.985Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "23-safe-escape-6",
+    "category": "Chase",
+    "caption": "A further Volcano theft shows the same focused pursuit interface.",
+    "file": "screenshots/23-safe-escape-6.jpg",
+    "capturedAt": "2026-10-02T06:31:45.828Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "30-current-reference",
+    "category": "Map",
+    "caption": "Space-themed region: crowned sleeping guardian, side eggs, star walls and an overhead portal. Name not shown in this frame.",
+    "file": "screenshots/30-current-reference.jpg",
+    "capturedAt": "2026-10-02T06:42:18.914Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "31-next-stages-2",
+    "category": "Map",
+    "caption": "Blossom-themed region: large gateways, waterfalls and edge trees frame an open lane.",
+    "file": "screenshots/31-next-stages-2.jpg",
+    "capturedAt": "2026-10-02T06:42:42.406Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "31-next-stages-3",
+    "category": "Map",
+    "caption": "Transition into a ruins-themed region with mossy stepped walls and side palms.",
+    "file": "screenshots/31-next-stages-3.jpg",
+    "capturedAt": "2026-10-02T06:42:45.515Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "31-next-stages-4",
+    "category": "Map",
+    "caption": "Ruins corridor looking back toward the blossom gateway; clear continuous lane.",
+    "file": "screenshots/31-next-stages-4.jpg",
+    "capturedAt": "2026-10-02T06:42:48.643Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "31-next-stages-5",
+    "category": "Map",
+    "caption": "Ruins guardian and eggs beside the wall; bright destination visible beyond.",
+    "file": "screenshots/31-next-stages-5.jpg",
+    "capturedAt": "2026-10-02T06:42:51.772Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "32-ruins-and-beyond-3",
+    "category": "Map",
+    "caption": "White-and-gold region overview: edge channels, large gate landmark, eggs beside the wall.",
+    "file": "screenshots/32-ruins-and-beyond-3.jpg",
+    "capturedAt": "2026-10-02T06:43:12.115Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "33-final-world-views-1",
+    "category": "Map",
+    "caption": "White-and-gold guardian/egg relationship, generous center clearance and detailed floor treatment.",
+    "file": "screenshots/33-final-world-views-1.jpg",
+    "capturedAt": "2026-10-02T06:43:35.322Z",
+    "width": 1920,
+    "height": 1032
+  },
+  {
+    "name": "48-user-treadmill-automatic-training",
+    "category": "Training",
+    "caption": "User-supplied treadmill view: repeated +1K Speed feedback and Level 7 to Level 8 cash/Robux upgrade sign. The user confirms that training runs automatically on the belt without held movement input.",
+    "file": "screenshots/48-user-treadmill-automatic-training.png",
+    "capturedAt": null,
+    "source": "User-supplied screenshot and gameplay clarification, 2026-10-02",
+    "width": 1188,
+    "height": 710
+  }
+]

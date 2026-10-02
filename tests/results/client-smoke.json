@@ -1,0 +1,80 @@
+{
+  "Passed": true,
+  "Method": "Actual client E-key proximity prompts, ordinary-speed character navigation, real death/respawn and stop/start reload",
+  "Observations": {
+    "smokeDeposit": {
+      "Player": {
+        "ChaserSpeed": 0,
+        "DataReady": true,
+        "Cash": 50,
+        "Carrying": "",
+        "SaveStatus": "Unsaved",
+        "SpeedLevel": 0,
+        "WalkSpeed": 16,
+        "PlotName": "Plot01"
+      },
+      "Position": "-24.3558349609375, 4.110721111297607, -53.5882568359375",
+      "Carried": 0,
+      "WalkSpeed": 16,
+      "Chasers": 0
+    },
+    "smokeUpgrade": {
+      "WalkSpeed": 18,
+      "Player": {
+        "ChaserSpeed": 0,
+        "DataReady": true,
+        "Cash": 0,
+        "Carrying": "",
+        "SaveStatus": "Saved",
+        "SpeedLevel": 1,
+        "WalkSpeed": 18,
+        "PlotName": "Plot01"
+      }
+    },
+    "smokeHUD": {
+      "HUDCount": 1,
+      "Text": " STEAL A PACKAGE • GRAYBOX\n Cash: $0   Speed: 18 (level 1)\n Carrying: none\n Plot: Plot01\n Next Speed: $100 • use blue station\n Data: Saved",
+      "WalkSpeed": 18,
+      "ResetOnSpawn": false
+    },
+    "smokeReload": {
+      "WalkSpeed": 18,
+      "Player": {
+        "ChaserSpeed": 0,
+        "DataReady": true,
+        "Cash": 0,
+        "Carrying": "",
+        "SaveStatus": "Saved",
+        "SpeedLevel": 1,
+        "WalkSpeed": 18,
+        "PlotName": "Plot01"
+      }
+    },
+    "smokeRepeat": {
+      "ChaserSpeed": 0,
+      "DataReady": true,
+      "Cash": 50,
+      "Carrying": "",
+      "SaveStatus": "Saved",
+      "SpeedLevel": 1,
+      "WalkSpeed": 18,
+      "PlotName": "Plot01"
+    },
+    "smokeCashReload": {
+      "Player": {
+        "ChaserSpeed": 0,
+        "DataReady": true,
+        "Cash": 50,
+        "Carrying": "",
+        "SaveStatus": "Saved",
+        "SpeedLevel": 1,
+        "WalkSpeed": 18,
+        "PlotName": "Plot01"
+      },
+      "Chasers": 0,
+      "Carried": 0,
+      "WalkSpeed": 18,
+      "Packages": 15
+    }
+  }
+}

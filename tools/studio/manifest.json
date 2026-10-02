@@ -1,0 +1,112 @@
+[
+  {
+    "file": "src/shared/config/GameConfig.luau",
+    "path": "ReplicatedStorage.StealAPackage.Shared.Configs.GameConfig",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/shared/config/AreaConfig.luau",
+    "path": "ReplicatedStorage.StealAPackage.Shared.Configs.AreaConfig",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/shared/config/UpgradeConfig.luau",
+    "path": "ReplicatedStorage.StealAPackage.Shared.Configs.UpgradeConfig",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/shared/modules/ProfileSchema.luau",
+    "path": "ReplicatedStorage.StealAPackage.Shared.Modules.ProfileSchema",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/server/systems/WorldBuilder.luau",
+    "path": "ServerScriptService.StealAPackage.Systems.WorldBuilder",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/server/data/ProfileStore.luau",
+    "path": "ServerScriptService.StealAPackage.Data.ProfileStore",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/server/data/DataService.luau",
+    "path": "ServerScriptService.StealAPackage.Data.DataService",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/server/systems/PlotService.luau",
+    "path": "ServerScriptService.StealAPackage.Systems.PlotService",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/server/systems/ChaserService.luau",
+    "path": "ServerScriptService.StealAPackage.Systems.ChaserService",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/server/systems/PackageService.luau",
+    "path": "ServerScriptService.StealAPackage.Systems.PackageService",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/server/systems/UpgradeService.luau",
+    "path": "ServerScriptService.StealAPackage.Systems.UpgradeService",
+    "class": "ModuleScript"
+  },
+  {
+    "file": "src/server/Bootstrap.server.luau",
+    "path": "ServerScriptService.StealAPackage.Bootstrap",
+    "class": "Script"
+  },
+  {
+    "file": "src/client/PlaytestHUD.client.luau",
+    "path": "StarterPlayer.StarterPlayerScripts.StealAPackageClient.PlaytestHUD",
+    "class": "LocalScript"
+  },
+  {
+    "file": "src/server/tests/GrayboxTests.server.luau",
+    "path": "ServerScriptService.StealAPackage.Tests.GrayboxTests",
+    "class": "Script"
+  },
+  {
+    "path": "ReplicatedStorage.StealAPackage.Shared.Configs.RarityConfig",
+    "class": "ModuleScript",
+    "file": "src/shared/config/RarityConfig.luau"
+  },
+  {
+    "path": "ReplicatedStorage.StealAPackage.Shared.Configs.TrailConfig",
+    "class": "ModuleScript",
+    "file": "src/shared/config/TrailConfig.luau"
+  },
+  {
+    "path": "ReplicatedStorage.StealAPackage.Shared.Modules.ProgressionMath",
+    "class": "ModuleScript",
+    "file": "src/shared/modules/ProgressionMath.luau"
+  },
+  {
+    "path": "ReplicatedStorage.StealAPackage.Shared.Modules.RarityRoller",
+    "class": "ModuleScript",
+    "file": "src/shared/modules/RarityRoller.luau"
+  },
+  {
+    "path": "ServerScriptService.StealAPackage.Systems.HubService",
+    "class": "ModuleScript",
+    "file": "src/server/systems/HubService.luau"
+  },
+  {
+    "path": "ServerScriptService.StealAPackage.Systems.TreadmillService",
+    "class": "ModuleScript",
+    "file": "src/server/systems/TreadmillService.luau"
+  },
+  {
+    "path": "ServerScriptService.StealAPackage.Systems.TrailService",
+    "class": "ModuleScript",
+    "file": "src/server/systems/TrailService.luau"
+  },
+  {
+    "path": "ServerScriptService.StealAPackage.Systems.DayNightService",
+    "class": "ModuleScript",
+    "file": "src/server/systems/DayNightService.luau"
+  }
+]

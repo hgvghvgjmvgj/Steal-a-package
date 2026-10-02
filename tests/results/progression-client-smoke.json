@@ -1,0 +1,75 @@
+{
+  "Passed": true,
+  "Setup": "Client teleports placed the tester near prompts; held keyboard input performed transactions and normal-speed escape runs. No test cash was granted.",
+  "BaseTraining": {
+    "Running": false,
+    "Speed": 18,
+    "Points": 73.47632875246927,
+    "Root": "-17, 4, -53",
+    "Training": true
+  },
+  "IdleAndJump": {
+    "Training": false,
+    "Anchored": false,
+    "Points": 73.47632875246927
+  },
+  "FirstEscape": {
+    "Threat": 0,
+    "Carrying": "",
+    "Position": "29.16455078125, 3.31072998046875, -24.007568359375",
+    "Guardians": 5,
+    "Cash": 118
+  },
+  "PromptPurchasesAndTraining": {
+    "Training": false,
+    "SpeedLevel": 3,
+    "PlotName": "Plot01",
+    "TrainingRunning": false,
+    "TreadmillLevel": 1,
+    "WalkSpeed": 19,
+    "CapacityLevel": 1,
+    "DataReady": true,
+    "TrainingRate": 12.15,
+    "GuardianSpeed": 0,
+    "SaveStatus": "Unsaved",
+    "PlotCapacity": 6,
+    "EquippedTrail": "CourierRibbon",
+    "Carrying": "",
+    "TrailMultiplier": 1.35,
+    "StoredCollectibles": 0,
+    "TrainingPoints": 99.58445418197662,
+    "Cash": 113
+  },
+  "FreshSessionReload": {
+    "Attrs": {
+      "Training": false,
+      "SpeedLevel": 3,
+      "PlotName": "Plot01",
+      "TrainingRunning": false,
+      "TreadmillLevel": 1,
+      "WalkSpeed": 19,
+      "CapacityLevel": 1,
+      "DataReady": true,
+      "TrainingRate": 12.15,
+      "GuardianSpeed": 0,
+      "SaveStatus": "Saved",
+      "PlotCapacity": 6,
+      "EquippedTrail": "CourierRibbon",
+      "Carrying": "",
+      "TrailMultiplier": 1.35,
+      "StoredCollectibles": 0,
+      "TrainingPoints": 99.584,
+      "Cash": 113
+    },
+    "Trail": true,
+    "CarryVisuals": 0,
+    "RootAnchored": false,
+    "Packages": 15,
+    "Guardians": 5
+  },
+  "ClientReload": {
+    "HUDCount": 1,
+    "Trail": true,
+    "WalkSpeed": 19
+  }
+}

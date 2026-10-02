@@ -1,0 +1,283 @@
+{
+  "Results": {
+    "1": {
+      "Name": "Two real clients have separate plots",
+      "Passed": true,
+      "Detail": ""
+    },
+    "2": {
+      "Name": "Fifteen package spawns",
+      "Passed": true,
+      "Detail": ""
+    },
+    "3": {
+      "Name": "Continuous ground from plot to Facility",
+      "Passed": true,
+      "Detail": ""
+    },
+    "4": {
+      "Name": "Distant theft rejected",
+      "Passed": true,
+      "Detail": ""
+    },
+    "5": {
+      "Name": "Distant upgrade rejected",
+      "Passed": true,
+      "Detail": ""
+    },
+    "6": {
+      "Name": "First claim succeeds",
+      "Passed": true,
+      "Detail": ""
+    },
+    "7": {
+      "Name": "Same package cannot be claimed twice",
+      "Passed": true,
+      "Detail": ""
+    },
+    "8": {
+      "Name": "Concurrent same-area chases are isolated",
+      "Passed": true,
+      "Detail": ""
+    },
+    "9": {
+      "Name": "One-package limit",
+      "Passed": true,
+      "Detail": ""
+    },
+    "10": {
+      "Name": "Other player's plot cannot deposit",
+      "Passed": true,
+      "Detail": ""
+    },
+    "11": {
+      "Name": "Own plot awards exactly once",
+      "Passed": true,
+      "Detail": ""
+    },
+    "12": {
+      "Name": "Standing on plot cannot duplicate reward",
+      "Passed": true,
+      "Detail": ""
+    },
+    "13": {
+      "Name": "Catch discards package without cash",
+      "Passed": true,
+      "Detail": ""
+    },
+    "14": {
+      "Name": "Speed purchase spends correct cash",
+      "Passed": true,
+      "Detail": ""
+    },
+    "15": {
+      "Name": "Speed purchase changes actual Humanoid",
+      "Passed": true,
+      "Detail": ""
+    },
+    "16": {
+      "Name": "Insufficient funds rejects purchase",
+      "Passed": true,
+      "Detail": ""
+    },
+    "17": {
+      "Name": "Other player cannot use this plot's upgrade",
+      "Passed": true,
+      "Detail": ""
+    },
+    "18": {
+      "Name": "Starter Street open and correct speed",
+      "Passed": true,
+      "Detail": ""
+    },
+    "19": {
+      "Name": "Starter Street chaser moves toward thief",
+      "Passed": true,
+      "Detail": ""
+    },
+    "20": {
+      "Name": "Starter Street reward",
+      "Passed": true,
+      "Detail": ""
+    },
+    "21": {
+      "Name": "Neighborhood open and correct speed",
+      "Passed": true,
+      "Detail": ""
+    },
+    "22": {
+      "Name": "Neighborhood chaser moves toward thief",
+      "Passed": true,
+      "Detail": ""
+    },
+    "23": {
+      "Name": "Neighborhood reward",
+      "Passed": true,
+      "Detail": ""
+    },
+    "24": {
+      "Name": "Rich Street open and correct speed",
+      "Passed": true,
+      "Detail": ""
+    },
+    "25": {
+      "Name": "Rich Street chaser moves toward thief",
+      "Passed": true,
+      "Detail": ""
+    },
+    "26": {
+      "Name": "Rich Street reward",
+      "Passed": true,
+      "Detail": ""
+    },
+    "27": {
+      "Name": "Mansion open and correct speed",
+      "Passed": true,
+      "Detail": ""
+    },
+    "28": {
+      "Name": "Mansion chaser moves toward thief",
+      "Passed": true,
+      "Detail": ""
+    },
+    "29": {
+      "Name": "Mansion reward",
+      "Passed": true,
+      "Detail": ""
+    },
+    "30": {
+      "Name": "Facility open and correct speed",
+      "Passed": true,
+      "Detail": ""
+    },
+    "31": {
+      "Name": "Facility chaser moves toward thief",
+      "Passed": true,
+      "Detail": ""
+    },
+    "32": {
+      "Name": "Facility reward",
+      "Passed": true,
+      "Detail": ""
+    },
+    "33": {
+      "Name": "Starter Street escape at base speed",
+      "Passed": true,
+      "Detail": ""
+    },
+    "34": {
+      "Name": "Facility chaser catches base-speed runner",
+      "Passed": true,
+      "Detail": ""
+    },
+    "35": {
+      "Name": "Death clears carried visual and chase",
+      "Passed": true,
+      "Detail": ""
+    },
+    "36": {
+      "Name": "Respawn retains Speed upgrade",
+      "Passed": true,
+      "Detail": ""
+    },
+    "37": {
+      "Name": "Respawn returns to own plot",
+      "Passed": true,
+      "Detail": ""
+    },
+    "38": {
+      "Name": "Reset discards package without adding cash",
+      "Passed": true,
+      "Detail": ""
+    },
+    "39": {
+      "Name": "Repeated thefts clean all chasers/visuals",
+      "Passed": true,
+      "Detail": ""
+    },
+    "40": {
+      "Name": "Packages replenish to fifteen",
+      "Passed": true,
+      "Detail": ""
+    },
+    "41": {
+      "Name": "New profile defaults",
+      "Passed": true,
+      "Detail": ""
+    },
+    "42": {
+      "Name": "Concurrent session cannot acquire profile",
+      "Passed": true,
+      "Detail": ""
+    },
+    "43": {
+      "Name": "Save and release",
+      "Passed": true,
+      "Detail": ""
+    },
+    "44": {
+      "Name": "Serialized reload retains cash and Speed",
+      "Passed": true,
+      "Detail": ""
+    },
+    "45": {
+      "Name": "Stale server cannot overwrite",
+      "Passed": true,
+      "Detail": ""
+    },
+    "46": {
+      "Name": "Expired session can recover",
+      "Passed": true,
+      "Detail": ""
+    },
+    "47": {
+      "Name": "Malformed profile is normalized",
+      "Passed": true,
+      "Detail": ""
+    },
+    "48": {
+      "Name": "Storage errors surface without overwriting defaults",
+      "Passed": true,
+      "Detail": ""
+    },
+    "49": {
+      "Detail": "Disposable QA key saved, reopened and removed",
+      "Passed": true,
+      "Name": "Roblox DataStore write/reload",
+      "Blocked": false
+    },
+    "50": {
+      "Name": "Real client disconnect cleans player state",
+      "Passed": true,
+      "Detail": ""
+    },
+    "51": {
+      "Name": "Departed plot released",
+      "Passed": true,
+      "Detail": ""
+    },
+    "52": {
+      "Name": "Other client remains playable after disconnect",
+      "Passed": true,
+      "Detail": ""
+    },
+    "53": {
+      "Name": "Replacement client loads",
+      "Passed": true,
+      "Detail": ""
+    },
+    "54": {
+      "Name": "Released plot reused",
+      "Passed": true,
+      "Detail": ""
+    },
+    "55": {
+      "Name": "Client HUD exists after respawn",
+      "Passed": false,
+      "Detail": ""
+    }
+  },
+  "Suite": "Graybox",
+  "GameplayPassed": false,
+  "Failure": "ServerScriptService.StealAPackage.Tests.GrayboxTests:23: Client HUD exists after respawn failed: nil\nServerScriptService.StealAPackage.Tests.GrayboxTests:23\nServerScriptService.StealAPackage.Tests.GrayboxTests:62\n"
+}

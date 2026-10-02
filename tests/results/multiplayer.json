@@ -1,0 +1,282 @@
+{
+  "Suite": "Graybox",
+  "Results": [
+    {
+      "Name": "Two real clients have separate plots",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Fifteen package spawns",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Continuous ground from plot to Facility",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Distant theft rejected",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Distant upgrade rejected",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "First claim succeeds",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same package cannot be claimed twice",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Concurrent same-area chases are isolated",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "One-package limit",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Other player's plot cannot deposit",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Own plot awards exactly once",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Standing on plot cannot duplicate reward",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Catch discards package without cash",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Speed purchase spends correct cash",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Speed purchase changes actual Humanoid",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Insufficient funds rejects purchase",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Other player cannot use this plot's upgrade",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Starter Street open and correct speed",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Starter Street chaser moves toward thief",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Starter Street reward",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood open and correct speed",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood chaser moves toward thief",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood reward",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Rich Street open and correct speed",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Rich Street chaser moves toward thief",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Rich Street reward",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion open and correct speed",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion chaser moves toward thief",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion reward",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility open and correct speed",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility chaser moves toward thief",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility reward",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Starter Street escape at base speed",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility chaser catches base-speed runner",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Death clears carried visual and chase",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Respawn retains Speed upgrade",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Respawn returns to own plot",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Reset discards package without adding cash",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Repeated thefts clean all chasers/visuals",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Packages replenish to fifteen",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "New profile defaults",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Concurrent session cannot acquire profile",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Save and release",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Serialized reload retains cash and Speed",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Stale server cannot overwrite",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Expired session can recover",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Malformed profile is normalized",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Storage errors surface without overwriting defaults",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Detail": "Disposable QA key saved, reopened and removed",
+      "Passed": true,
+      "Name": "Roblox DataStore write/reload",
+      "Blocked": false
+    },
+    {
+      "Name": "Real client disconnect cleans player state",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Departed plot released",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Other client remains playable after disconnect",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Replacement client loads",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Released plot reused",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Disconnect leaves no orphaned visuals",
+      "Passed": true,
+      "Detail": ""
+    }
+  ],
+  "GameplayPassed": true
+}

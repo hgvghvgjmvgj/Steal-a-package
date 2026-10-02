@@ -1,0 +1,1011 @@
+{
+  "Suite": "Progression",
+  "Passed": true,
+  "Results": [
+    {
+      "Name": "Separate player plots",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Old Speed buttons removed",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Five persistent guardians",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Fifteen visible package spots and packages",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Hub line precedes plots",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Continuous walking route",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Starter Street has exactly three spots",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Starter Street has every rarity",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet positive rarity weight 0",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet positive rarity weight 70",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet positive rarity weight 90",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet positive rarity weight 97",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet positive rarity weight 99.3",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet positive rarity weight 99.89999999999999",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet positive rarity weight 99.99",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet can roll Standard",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet can roll Stamped",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet can roll Priority",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet can roll Express",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet can roll Vault",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet can roll Prototype",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet can roll OneOfOne",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet reward quality increases",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood has exactly three spots",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood has every rarity",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood positive rarity weight 0",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood positive rarity weight 55",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood positive rarity weight 83",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood positive rarity weight 95",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood positive rarity weight 98.5",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood positive rarity weight 99.7",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood positive rarity weight 99.95",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood can roll Standard",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood can roll Stamped",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood can roll Priority",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood can roll Express",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood can roll Vault",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood can roll Prototype",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood can roll OneOfOne",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood reward quality increases",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Rich Street has exactly three spots",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Rich Street has every rarity",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet positive rarity weight 0",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet positive rarity weight 45",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet positive rarity weight 76",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet positive rarity weight 92",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet positive rarity weight 97.5",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet positive rarity weight 99.5",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet positive rarity weight 99.9",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet can roll Standard",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet can roll Stamped",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet can roll Priority",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet can roll Express",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet can roll Vault",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet can roll Prototype",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet can roll OneOfOne",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet reward quality increases",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion has exactly three spots",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion has every rarity",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion positive rarity weight 0",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion positive rarity weight 35",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion positive rarity weight 68",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion positive rarity weight 90",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion positive rarity weight 97",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion positive rarity weight 99.3",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion positive rarity weight 99.8",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion can roll Standard",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion can roll Stamped",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion can roll Priority",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion can roll Express",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion can roll Vault",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion can roll Prototype",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion can roll OneOfOne",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion reward quality increases",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility has exactly three spots",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility has every rarity",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility positive rarity weight 0",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility positive rarity weight 25",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility positive rarity weight 57",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility positive rarity weight 86",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility positive rarity weight 96",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility positive rarity weight 99",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility positive rarity weight 99.7",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility can roll Standard",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility can roll Stamped",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility can roll Priority",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility can roll Express",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility can roll Vault",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility can roll Prototype",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility can roll OneOfOne",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility reward quality increases",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Distant theft rejected",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Distant treadmill entry rejected",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Other player's treadmill cannot train you",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Owner can enter physical belt",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Standing idle does not train",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Malformed running intent rejected",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Running intent accepted",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Base running gain",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Stale input cannot continue training",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Stop releases training state",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Treadmill upgrade spends cash",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Belt upgrade does not directly change movement",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Upgraded training rate",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Training is isolated from other player",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Unrecognized trail rejected",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Trail bought and equipped",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Trail multiplies training only",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Trail visual exists",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Trail gain math",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Owned trail is not charged twice",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Unequip clears visual and multiplier",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Another plot cannot buy/equip for you",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Earned threshold raises movement by one",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Training has finite movement cap",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Initial collectible capacity is three",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Store placeholder collectible 1",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Store placeholder collectible 2",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Store placeholder collectible 3",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Storage rejects full plot",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Three stored displays rendered",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Capacity upgrade unlocks six slots",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "New capacity accepts fourth collectible",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Duplicate/invalid collectibles rejected",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Fourth pedestal is unlocked",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Capacity purchase is owner-only",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Capacity tops out at twelve",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Belt levels have a finite cap",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Insufficient funds reject upgrades",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Insufficient funds reject trail purchase",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Old cash and Speed migrate without losing movement",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Malformed progression is normalized",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Theft empties its spot",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Atomic claim prevents duplicate theft",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Exactly that stage guardian activates",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Concurrent thieves share one guardian",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "One-package carrying limit remains",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Finish line awards before reaching own plot",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Escape clears only your threat",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Safe-zone cash cannot duplicate",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Guardian catches remaining thief without cash",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood cannot enter hub",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion cannot enter hub",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet cannot enter hub",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet cannot enter hub",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility cannot enter hub",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Taken spots wait for sunrise",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Sunrise replenishes all fifteen together",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same refresh generation StarterStreetSpot1",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same refresh generation StarterStreetSpot2",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same refresh generation StarterStreetSpot3",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same refresh generation NeighborhoodSpot1",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same refresh generation NeighborhoodSpot2",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same refresh generation NeighborhoodSpot3",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same refresh generation RichStreetSpot1",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same refresh generation RichStreetSpot2",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same refresh generation RichStreetSpot3",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same refresh generation MansionSpot1",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same refresh generation MansionSpot2",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same refresh generation MansionSpot3",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same refresh generation FacilitySpot1",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same refresh generation FacilitySpot2",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Same refresh generation FacilitySpot3",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet is open and increasingly fast",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet guardian pursues its thief",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "StarterStreet rarity reward secured",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood is open and increasingly fast",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood guardian pursues its thief",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Neighborhood rarity reward secured",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet is open and increasingly fast",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet guardian pursues its thief",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "RichStreet rarity reward secured",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion is open and increasingly fast",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion guardian pursues its thief",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Mansion rarity reward secured",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility is open and increasingly fast",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility guardian pursues its thief",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Facility rarity reward secured",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Short night begins without refreshing packages",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Sunrise exits night and refreshes once",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Refresh preserves carried package and pursuit",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "New sunrise has fifteen packages",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Repeated sunrise cycles do not duplicate entities",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Death stops training and unlocks root",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Respawn retains learned speed and trail",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Respawn returns to own depot",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Client HUD survives without duplication",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Reset clears carried package and shared threat",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Profile acquisition uses defaults",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Concurrent session blocked",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "All progression fields save with lease release",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Training/trail/capacity/collectibles survive serialized reload",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Stale server cannot overwrite",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Expired lease recovers stored progression",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Actual Roblox progression reload",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Disconnect cleans treadmill, profile, trail connections and plot",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Disconnected plot is released",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Replacement client loads",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Replacement reuses released plot",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Remaining client still has usable treadmill",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Name": "Final populations stay bounded",
+      "Passed": true,
+      "Detail": ""
+    }
+  ]
+}
